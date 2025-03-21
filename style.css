@@ -26,15 +26,34 @@ body{
 }
 
 #screen {
+    background-image: url("/assets/6852bb16c26f5b41fc7e86a6bd237414.jpg");
+    background-size: cover;
     width: 60%;
     height: 90%;
-    background: white;
     display: flex;
     justify-content:center;
     align-items:center;
     border-radius: 15px;
     overflow: hidden;
     border: 3px solid black;
+}
+#menu, #videoPlayer {
+    width: 100%;
+    text-align: center;
+}
+
+.menu-item {
+    padding: 10px;
+    cursor: pointer;
+}
+
+.active {
+    background-color: white;
+    color: black;
+}
+
+.hidden {
+    display: none;
 }
 
 iframe {
@@ -83,4 +102,4 @@ iframe {
 #menuBtn { top: 10px; }
 #play { bottom: 10px; }
 #prev { left: 10px; }
-#next { right: 10px; }
+#next { right: 10px; } 
