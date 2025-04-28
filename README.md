@@ -1,4 +1,3 @@
-![Uploading Screenshot 2025-04-28 203013.png…]()
 # Wpod
 This is an iPod-like web app that allows users to search and play videos or music using various APIs such as YouTube and Audius. The app has a simple, interactive interface similar to the iPod, allowing users to select music or video options, search, and play them on the screen.
 
@@ -14,4 +13,6 @@ HTML, CSS, and JavaScript
 
 YouTube API for video search and playback
 Audius API for music search
+
+![Screenshot 2025-04-28 203013](https://github.com/user-attachments/assets/19ddaf30-c3b2-4737-ac9c-9d7c8ca0ed3e)
 
